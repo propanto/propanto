@@ -2,29 +2,29 @@ Full-Stack developer with Laravel, Vue and Tailwind. As a Full-Stack Developer, 
 
 Find me here: linktr.ee/prpantos
 
-Interests:
-⚙️ HTML/CSS/SASS/Tailwind
-⚙️ JavaScript/Typescript
-⚙️ PHP
-⚙️ Laravel/Symfony
-⚙️ Splade
-⚙️ Livewire
-⚙️ Inertia/Hybridly
-⚙️ VueJS
-⚙️ ReactJS
-⚙️ SvelteJS
-⚙️ SolidJS
-⚙️ AlpineJS
-⚙️ Petite-VueJS
-⚙️ NodeJS
-⚙️ AdonisJS
-⚙️ Rust
-⚙️ Python
-⚙️ Django
-⚙️ Arduino
-⚙️ Electronics
-⚙️ 3D & 3D Printing
-♻️ Plastic Recycling
-🧗 Hiking
-🎼 Classical Guitar & Acoustic Guitar
-🥗 Cooking
+Interests:<br>
+⚙️ HTML/CSS/SASS/Tailwind<br>
+⚙️ JavaScript/Typescript<br>
+⚙️ PHP<br>
+⚙️ Laravel/Symfony<br>
+⚙️ Splade<br>
+⚙️ Livewire<br>
+⚙️ Inertia/Hybridly<br>
+⚙️ VueJS<br>
+⚙️ ReactJS<br>
+⚙️ SvelteJS<br>
+⚙️ SolidJS<br>
+⚙️ AlpineJS<br>
+⚙️ Petite-VueJS<br>
+⚙️ NodeJS<br>
+⚙️ AdonisJS<br>
+⚙️ Rust<br>
+⚙️ Python<br>
+⚙️ Django<br>
+⚙️ Arduino<br>
+⚙️ Electronics<br>
+⚙️ 3D & 3D Printing<br>
+♻️ Plastic Recycling<br>
+🧗 Hiking<br>
+🎼 Classical Guitar & Acoustic Guitar<br>
+🥗 Cooking<br>
