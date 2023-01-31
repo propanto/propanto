@@ -29,4 +29,4 @@ Interests:<br>
 ♻️ Plastic Recycling<br>
 🧗 Hiking<br>
 🎼 Classical Guitar & Acoustic Guitar<br>
-🥗 Cooking<br>
+🥗 Cooking
