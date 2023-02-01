@@ -20,7 +20,7 @@ Full-Stack developer with Laravel, Vue and Tailwind, who create professional web
 
 <br />
 
-Interests:<br>
+### Interests:<br>
 [<img alt="HTML5" width="32px" src="https://i.imgur.com/iQ5jHeB.png" />]()&nbsp;&nbsp;
 [<img alt="CSS3" width="32px" src="https://i.imgur.com/byBK02G.png" />]()&nbsp;&nbsp;
 [<img alt="SASS" width="32px" src="https://i.imgur.com/D6vT8TY.png" />]()&nbsp;&nbsp;
