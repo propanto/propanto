@@ -5,7 +5,7 @@ Full-Stack developer with Laravel, Vue and Tailwind, who create professional web
 
 - 👀 I’m interested in Open Sourse
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 Goal: Contribute more to Open Source projects
 
 <br>
 
