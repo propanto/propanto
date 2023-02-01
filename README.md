@@ -54,4 +54,4 @@ Full-Stack developer with Laravel, Vue and Tailwind, who create professional web
 [<img alt="Cooking" width="46px" src="https://i.imgur.com/7PfLZgc.png" />]()&nbsp;&nbsp;
 
 ### Github stats
-![Prodromos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Prodromos's GitHub stats](https://github-readme-stats.vercel.app/api?username=prpanto&show_icons=true&theme=transparent)
