@@ -51,4 +51,4 @@ Full-Stack developer with Laravel, Vue and Tailwind, who create professional web
 [<img alt="Plastic Recycling" width="42px" src="https://i.imgur.com/cwezsAM.png" />]()&nbsp;&nbsp;
 [<img alt="Hiking" width="32px" src="https://i.imgur.com/I1lBPwm.png" />]()&nbsp;&nbsp;
 [<img alt="Classical Guitar & Acoustic" width="56px" src="https://i.imgur.com/aNn647F.png" />]()&nbsp;&nbsp;
-[<img alt="Cooking" width="46px" src="https://i.imgur.com/YSEPwCm.png" />]()&nbsp;&nbsp;
+[<img alt="Cooking" width="46px" src="https://i.imgur.com/7PfLZgc.png" />]()&nbsp;&nbsp;
