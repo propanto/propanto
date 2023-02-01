@@ -56,5 +56,4 @@ Full-Stack developer with Laravel, Vue and Tailwind, who create professional web
 <br><br>
 
 ### Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prpato&layout=compact)](https://github.com/prpanto/github-readme-stats)
 ![Prodromos's GitHub stats](https://github-readme-stats.vercel.app/api?username=prpanto&show_icons=true&theme=dark)
