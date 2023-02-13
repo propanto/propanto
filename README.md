@@ -38,7 +38,7 @@ Full-Stack developer with Laravel, Vue and Tailwind, which me create professiona
 [<img alt="AlpineJS" width="32px" src="https://i.imgur.com/5fjykVb.png" />]()&nbsp;&nbsp;
 [<img alt="ReactJS" width="32px" src="https://i.imgur.com/gmRv9Dm.png" />]()&nbsp;&nbsp;
 [<img alt="SvelteJS" width="32px" src="https://i.imgur.com/U58SBS7.png" />]()&nbsp;&nbsp;
-[<img alt="AstroJS" width="32px" src="[https://i.imgur.com/U58SBS7.png]()" />]()&nbsp;&nbsp;
+[<img alt="AstroJS" width="32px" src="[https://i.imgur.com/N0Ni0gv.png" />]()&nbsp;&nbsp;
 [<img alt="SolidJS" width="32px" src="https://i.imgur.com/xemDOzj.png" />]()&nbsp;&nbsp;
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
 [<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
