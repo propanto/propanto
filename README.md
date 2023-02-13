@@ -41,7 +41,7 @@ Full-Stack developer with Laravel, Vue and Tailwind, which me create professiona
 [<img alt="SolidJS" width="32px" src="https://i.imgur.com/xemDOzj.png" />]()&nbsp;&nbsp;
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
 [<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
-[<img alt="Rust" width="32px" src="https://i.imgur.com/wcGYPXj.png" />]()&nbsp;&nbsp;
+[<img alt="Rust" width="42px" src="https://i.imgur.com/wcGYPXj.png" />]()&nbsp;&nbsp;
 [<img alt="Python" width="32px" src="https://i.imgur.com/T5WBPp3.png" />]()&nbsp;&nbsp;
 [<img alt="Django" width="32px" src="https://i.imgur.com/xDMnT7t.png" />]()&nbsp;&nbsp;
 [<img alt="Arduino" width="32px" src="https://i.imgur.com/XfiyYFL.png" />]()&nbsp;&nbsp;
