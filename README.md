@@ -22,7 +22,6 @@ Full-Stack developer which me create professional web applications. As a Full-St
 ### Interests:<br>
 [<img alt="HTML5" width="32px" src="https://i.imgur.com/iQ5jHeB.png" />]()&nbsp;&nbsp;
 [<img alt="CSS3" width="32px" src="https://i.imgur.com/byBK02G.png" />]()&nbsp;&nbsp;
-[<img alt="SASS" width="32px" src="https://i.imgur.com/D6vT8TY.png" />]()&nbsp;&nbsp;
 [<img alt="Tailwind" width="32px" src="https://i.imgur.com/8eHFfGI.png" />]()&nbsp;&nbsp;
 [<img alt="JavaScript" width="26px" src="https://i.imgur.com/QAisd5A.png" />]()&nbsp;&nbsp;
 [<img alt="Typescript" width="26px" src="https://i.imgur.com/dkCq4mv.png" />]()&nbsp;&nbsp;
