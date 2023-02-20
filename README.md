@@ -41,17 +41,6 @@ Full-Stack developer which me create professional web applications. As a Full-St
 [<img alt="SolidJS" width="32px" src="https://i.imgur.com/xemDOzj.png" />]()&nbsp;&nbsp;
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
 [<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
-[<img alt="Rust" width="44px" src="https://i.imgur.com/wcGYPXj.png" />]()&nbsp;&nbsp;
-[<img alt="Python" width="32px" src="https://i.imgur.com/T5WBPp3.png" />]()&nbsp;&nbsp;
-[<img alt="Django" width="44px" src="https://i.imgur.com/xDMnT7t.png" />]()&nbsp;&nbsp;
-[<img alt="Arduino" width="32px" src="https://i.imgur.com/XfiyYFL.png" />]()&nbsp;&nbsp;
-[<img alt="Electronics" width="32px" src="https://i.imgur.com/GCDZiqz.png" />]()&nbsp;&nbsp;
-[<img alt="3D" width="32px" src="https://i.imgur.com/1nH0uzy.png" />]()&nbsp;&nbsp;
-[<img alt="3D Printing" width="32px" src="https://i.imgur.com/7mCbhRH.png" />]()&nbsp;&nbsp;
-[<img alt="Plastic Recycling" width="42px" src="https://i.imgur.com/cwezsAM.png" />]()&nbsp;&nbsp;
-[<img alt="Hiking" width="32px" src="https://i.imgur.com/I1lBPwm.png" />]()&nbsp;&nbsp;
-[<img alt="Classical Guitar & Acoustic" width="56px" src="https://i.imgur.com/aNn647F.png" />]()&nbsp;&nbsp;
-[<img alt="Cooking" width="46px" src="https://i.imgur.com/7PfLZgc.png" />]()&nbsp;&nbsp;
 
 <br>
 
