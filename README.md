@@ -33,14 +33,14 @@ Full-Stack developer which me create professional web applications. As a Full-St
 [<img alt="Livewire" width="32px" src="https://i.imgur.com/uyTSsHL.png" />]()&nbsp;&nbsp;
 [<img alt="Inertia" width="100px" src="https://i.imgur.com/E5ii9yl.png" />]()&nbsp;&nbsp;
 [<img alt="Hybridly" width="32px" src="https://i.imgur.com/aTdTHaJ.png" />]()&nbsp;&nbsp;
+[<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
+[<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
 [<img alt="VueJS" width="32px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
 [<img alt="AlpineJS" width="32px" src="https://i.imgur.com/5fjykVb.png" />]()&nbsp;&nbsp;
 [<img alt="ReactJS" width="32px" src="https://i.imgur.com/gmRv9Dm.png" />]()&nbsp;&nbsp;
 [<img alt="SvelteJS" width="32px" src="https://i.imgur.com/U58SBS7.png" />]()&nbsp;&nbsp;
 [<img alt="AstroJS" width="32px" src="https://i.imgur.com/N0Ni0gv.png" />]()&nbsp;&nbsp;
 [<img alt="SolidJS" width="32px" src="https://i.imgur.com/xemDOzj.png" />]()&nbsp;&nbsp;
-[<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
-[<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
 
 <br>
 
