@@ -2,7 +2,7 @@
 
 Full-Stack developer which me create professional web applications. As a Full-Stack Developer, I have a solid understanding of web development technologies and an unwavering passion for building efficient and user-friendly web applications. My desire to continuously learn and improve makes me a valuable asset to any team. I possess strong communication skills and a positive attitude, making me an effective collaborator with my colleagues to achieve goals.
 
-- 👀 I’m interested in Open Sourse
+- 👀 I’m interested in Open Source
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goal: Contribute more to Open Source projects
 
