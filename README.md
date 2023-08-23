@@ -39,8 +39,6 @@ Full-Stack developer which me create professional web applications. As a Full-St
 [<img alt="AlpineJS" width="32px" src="https://i.imgur.com/5fjykVb.png" />]()&nbsp;&nbsp;
 [<img alt="ReactJS" width="32px" src="https://i.imgur.com/gmRv9Dm.png" />]()&nbsp;&nbsp;
 [<img alt="SvelteJS" width="32px" src="https://i.imgur.com/U58SBS7.png" />]()&nbsp;&nbsp;
-[<img alt="AstroJS" width="32px" src="https://i.imgur.com/N0Ni0gv.png" />]()&nbsp;&nbsp;
-[<img alt="SolidJS" width="32px" src="https://i.imgur.com/xemDOzj.png" />]()&nbsp;&nbsp;
 
 <br>
 
