@@ -34,6 +34,7 @@ Full-Stack developer which me create professional web applications. As a Full-St
 [<img alt="Hybridly" width="32px" src="https://i.imgur.com/aTdTHaJ.png" />]()&nbsp;&nbsp;
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
 [<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
+[<img alt="NuxtJS" width="32px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
 [<img alt="VueJS" width="32px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
 [<img alt="AlpineJS" width="32px" src="https://i.imgur.com/5fjykVb.png" />]()&nbsp;&nbsp;
 [<img alt="ReactJS" width="32px" src="https://i.imgur.com/gmRv9Dm.png" />]()&nbsp;&nbsp;
