@@ -27,7 +27,6 @@ Full-Stack developer which me create professional web applications.
 [<img alt="Typescript" width="26px" src="https://i.imgur.com/dkCq4mv.png" />]()&nbsp;&nbsp;
 [<img alt="PHP" width="40px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
 [<img alt="Laravel" width="32px" src="https://i.imgur.com/EXM16gK.png" />]()&nbsp;&nbsp;
-[<img alt="Symfony" width="32px" src="https://i.imgur.com/9ROnwj7.png" />]()&nbsp;&nbsp;
 [<img alt="Splade" width="100px" src="https://i.imgur.com/OrWEyYy.png" />]()&nbsp;&nbsp;
 [<img alt="Livewire" width="32px" src="https://i.imgur.com/uyTSsHL.png" />]()&nbsp;&nbsp;
 [<img alt="Inertia" width="100px" src="https://i.imgur.com/E5ii9yl.png" />]()&nbsp;&nbsp;
