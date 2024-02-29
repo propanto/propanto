@@ -10,7 +10,7 @@ Full-Stack developer which me create professional web applications.
 
 ## My love story of my coding life
 
-1. Laravel is my taste, my inspiration and my feelings
+1. Laravel is my taste, my inspiration, my feelings and my famimily
 2. Vue & Nuxt is my lover
 3. React & Nuxt is my cheater
 4. Tailwind is my passion
