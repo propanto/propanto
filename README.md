@@ -8,7 +8,7 @@ Full-Stack developer which me create professional web applications.
 
 <br>
 
-## Love story of my coding life
+## My love story of my coding life
 
 1. Laravel is my taste, my inspiration and my feelings
 2. Vue & Nuxt is my lover
