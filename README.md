@@ -47,7 +47,6 @@ Full-Stack developer which me create professional web applications.
 [<img alt="VueJS" width="32px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
 [<img alt="PHP" width="40px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
 [<img alt="Laravel" width="32px" src="https://i.imgur.com/EXM16gK.png" />]()&nbsp;&nbsp;
-[<img alt="Inertia" width="100px" src="https://i.imgur.com/E5ii9yl.png" />]()&nbsp;&nbsp;
 
 <br>
 
