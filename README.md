@@ -42,15 +42,12 @@ Full-Stack developer which me create professional web applications.
 [<img alt="Tailwind" width="32px" src="https://i.imgur.com/8eHFfGI.png" />]()&nbsp;&nbsp;
 [<img alt="JavaScript" width="26px" src="https://i.imgur.com/QAisd5A.png" />]()&nbsp;&nbsp;
 [<img alt="Typescript" width="26px" src="https://i.imgur.com/dkCq4mv.png" />]()&nbsp;&nbsp;
-[<img alt="PHP" width="40px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
-[<img alt="Laravel" width="32px" src="https://i.imgur.com/EXM16gK.png" />]()&nbsp;&nbsp;
-[<img alt="Splade" width="100px" src="https://i.imgur.com/OrWEyYy.png" />]()&nbsp;&nbsp;
-[<img alt="Livewire" width="32px" src="https://i.imgur.com/uyTSsHL.png" />]()&nbsp;&nbsp;
-[<img alt="Inertia" width="100px" src="https://i.imgur.com/E5ii9yl.png" />]()&nbsp;&nbsp;
-[<img alt="Hybridly" width="32px" src="https://i.imgur.com/aTdTHaJ.png" />]()&nbsp;&nbsp;
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
 [<img alt="NuxtJS" width="32px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
 [<img alt="VueJS" width="32px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
+[<img alt="PHP" width="40px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
+[<img alt="Laravel" width="32px" src="https://i.imgur.com/EXM16gK.png" />]()&nbsp;&nbsp;
+[<img alt="Inertia" width="100px" src="https://i.imgur.com/E5ii9yl.png" />]()&nbsp;&nbsp;
 
 <br>
 
