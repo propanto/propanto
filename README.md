@@ -8,6 +8,21 @@ Full-Stack developer which me create professional web applications.
 
 <br>
 
+1. Laravel is my taste, my inspiration and my feelings
+2. Vue & Nuxt is my lover
+3. React & Nuxt is my cheater
+4. Tailwind is my passion
+5. Adonis is my illusory dream
+
+<br>
+
+## My favorite stacks
+
+1. Laravel, Inertia, Vue & Tailwind
+2. Nuxt, Vue & NuxtUI
+
+<br>
+
 ### Connect with me:
 [<img alt="codeSTACKr | Twitter" width="120px" src="https://i.imgur.com/mYHy0X3.png" />](https://linktr.ee/prpanto)&nbsp;&nbsp;
 [<img alt="codeSTACKr | LinkedIn" width="46px" src="https://i.imgur.com/phnzaa1.png" />](https://gitlab.com/prpanto)&nbsp;&nbsp;
@@ -32,14 +47,12 @@ Full-Stack developer which me create professional web applications.
 [<img alt="Inertia" width="100px" src="https://i.imgur.com/E5ii9yl.png" />]()&nbsp;&nbsp;
 [<img alt="Hybridly" width="32px" src="https://i.imgur.com/aTdTHaJ.png" />]()&nbsp;&nbsp;
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
-[<img alt="AdonisJS" width="32px" src="https://i.imgur.com/8TQJE2K.png" />]()&nbsp;&nbsp;
 [<img alt="NuxtJS" width="32px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
 [<img alt="VueJS" width="32px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
-[<img alt="AlpineJS" width="32px" src="https://i.imgur.com/5fjykVb.png" />]()&nbsp;&nbsp;
-[<img alt="ReactJS" width="32px" src="https://i.imgur.com/gmRv9Dm.png" />]()&nbsp;&nbsp;
-[<img alt="SvelteJS" width="32px" src="https://i.imgur.com/U58SBS7.png" />]()&nbsp;&nbsp;
 
 <br>
 
+<!--
 ### Github stats
 ![Prodromos's GitHub stats](https://github-readme-stats.vercel.app/api?username=prpanto&show_icons=true&theme=dark)
+-->
