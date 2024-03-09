@@ -2,19 +2,19 @@
 
 Full-Stack developer which me create professional web applications.
 
-- 👀 I’m interested in Open Source
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goal: Contribute more to Open Source projects
+- 👀 I’m interested in Open Source.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 Goal: Contribute more to Open Source projects.
 
 <br>
 
 ## My love story of my coding life
 
-1. Laravel is my taste, my inspiration, my feelings and my family
-2. Vue & Nuxt is my lover
-3. React & Nuxt is my cheater
-4. Tailwind is my passion
-5. Adonis is my illusory dream
+1. Laravel is my taste, my inspiration, my feelings and my family.
+2. Vue & Nuxt is my lover.
+3. React & Nuxt is my cheater.
+4. Tailwind is my passion.
+5. Adonis is my illusory dream.
 
 <br>
 
