@@ -45,7 +45,7 @@ Full-Stack developer which me create professional web applications.
 [<img alt="NodeJS" width="32px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
 [<img alt="NuxtJS" width="32px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
 [<img alt="VueJS" width="32px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
-<svg xmlns="http://www.w3.org/2000/svg" width="1.9em" height="1em" viewBox="0 0 256 135">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 135">
 	<rect width="256" height="135" fill="none" />
 	<defs>
 		<radialGradient id="logosPhp0" cx=".837" cy="-125.811" r="363.057" gradientTransform="translate(76.464 81.918)scale(.463)" gradientUnits="userSpaceOnUse">
