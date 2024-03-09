@@ -32,7 +32,7 @@ Full-Stack developer which me create professional web applications.
 [<img alt="codeSTACKr | LinkedIn" width="32px" src="https://i.imgur.com/divyfvX.png" />](https://www.linkedin.com/in/prodromos-pantos-5910b5263)&nbsp;&nbsp;
 [<img alt="codeSTACKr | LinkedIn" width="32px" src="https://i.imgur.com/2gITTzb.png" />](https://www.instagram.com/prpantos)&nbsp;&nbsp;
 [<img alt="codeSTACKr | LinkedIn" width="32px" src="https://i.imgur.com/boSVclO.png" />](https://codepen.io/prpanto)&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="32px" src="https://i.imgur.com/wwiAkYT.png" />](https://codesandbox.io/u/prpanto)&nbsp;&nbsp;
+[<img alt="codeSTACKr | LinkedIn" width="32px" src="https://i.imgur.com/wwiAkYT.png" />](https://codesandbox.io/u/prpanto)
 
 <br />
 
@@ -46,7 +46,7 @@ Full-Stack developer which me create professional web applications.
 [<img alt="NuxtJS" width="40px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
 [<img alt="VueJS" width="40px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
 [<img alt="PHP" width="40px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
-[<img alt="Laravel" width="40px" src="https://i.imgur.com/EXM16gK.png" />]()&nbsp;&nbsp;
+[<img alt="Laravel" width="40px" src="https://i.imgur.com/EXM16gK.png" />]()
 <br>
 
 <!--
