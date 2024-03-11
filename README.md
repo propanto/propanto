@@ -37,16 +37,16 @@ Full-Stack developer which me create professional web applications.
 <br />
 
 ### Interests:<br>
-[<img alt="HTML5" width="40px" src="https://i.imgur.com/iQ5jHeB.png" />]()&nbsp;&nbsp;
-[<img alt="CSS3" width="40px" src="https://i.imgur.com/byBK02G.png" />]()&nbsp;&nbsp;
-[<img alt="Tailwind" width="40px" src="https://i.imgur.com/8eHFfGI.png" />]()&nbsp;&nbsp;
-[<img alt="JavaScript" width="34px" src="https://i.imgur.com/QAisd5A.png" />]()&nbsp;&nbsp;
-[<img alt="Typescript" width="34px" src="https://i.imgur.com/dkCq4mv.png" />]()&nbsp;&nbsp;
-[<img alt="NodeJS" width="40px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
-[<img alt="NuxtJS" width="40px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
-[<img alt="VueJS" width="40px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
-[<img alt="PHP" width="48px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
-[<img alt="Laravel" width="40px" src="https://i.imgur.com/EXM16gK.png" />]()
+[<img alt="HTML5" width="48px" src="https://i.imgur.com/iQ5jHeB.png" />]()&nbsp;&nbsp;
+[<img alt="CSS3" width="48px" src="https://i.imgur.com/byBK02G.png" />]()&nbsp;&nbsp;
+[<img alt="Tailwind" width="48px" src="https://i.imgur.com/8eHFfGI.png" />]()&nbsp;&nbsp;
+[<img alt="JavaScript" width="42px" src="https://i.imgur.com/QAisd5A.png" />]()&nbsp;&nbsp;
+[<img alt="Typescript" width="42px" src="https://i.imgur.com/dkCq4mv.png" />]()&nbsp;&nbsp;
+[<img alt="NodeJS" width="48px" src="https://i.imgur.com/YLVWwLN.png" />]()&nbsp;&nbsp;
+[<img alt="NuxtJS" width="48px" src="https://i.imgur.com/G8DoF7I.png" />]()&nbsp;&nbsp;
+[<img alt="VueJS" width="48px" src="https://i.imgur.com/X4aWxrK.png" />]()&nbsp;&nbsp;
+[<img alt="PHP" width="56px" src="https://i.imgur.com/8Y2thGt.png" />]()&nbsp;&nbsp;
+[<img alt="Laravel" width="48px" src="https://i.imgur.com/EXM16gK.png" />]()
 <br>
 
 <!--
