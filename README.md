@@ -26,13 +26,14 @@ Full-Stack developer which me create professional web applications.
 <br>
 
 ### Connect with me:
-[<img alt="codeSTACKr | Twitter" width="48px" src="https://i.imgur.com/D5G6EoV.png" />](https://linktr.ee/prpanto)&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="48px" src="https://i.imgur.com/wsN9LhZ.png" />](https://gitlab.com/prpanto)&nbsp;&nbsp;
-[<img alt="codeSTACKr | Twitter" width="48px" src="https://i.imgur.com/JKRfJMw.png" />](https://twitter.com/prpantos)&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="48px" src="https://i.imgur.com/lgQUQnK.png" />](https://www.linkedin.com/in/prodromos-pantos-5910b5263)&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="48px" src="https://i.imgur.com/8FYYDK5.png" />](https://www.instagram.com/prpantos)&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="48px" src="https://i.imgur.com/O3n6wHW.png" />](https://codepen.io/prpanto)&nbsp;&nbsp;
-[<img alt="codeSTACKr | LinkedIn" width="48px" src="https://i.imgur.com/SdzPBLH.png" />](https://codesandbox.io/u/prpanto)
+[<img alt="Linktree" width="48px" src="https://i.imgur.com/D5G6EoV.png" />](https://linktr.ee/prpanto)&nbsp;&nbsp;
+[<img alt="Gitlab" width="48px" src="https://i.imgur.com/wsN9LhZ.png" />](https://gitlab.com/prpanto)&nbsp;&nbsp;
+[<img alt="LinkedIn" width="48px" src="https://i.imgur.com/lgQUQnK.png" />](https://www.linkedin.com/in/prodromos-pantos-5910b5263)&nbsp;&nbsp;
+[<img alt="Twitter" width="48px" src="https://i.imgur.com/JKRfJMw.png" />](https://twitter.com/prpantos)&nbsp;&nbsp;
+[<img alt="Facebook" width="48px" src="https://i.imgur.com/DcrN8Yp.png" />](https://www.facebook.com/prpanto)&nbsp;&nbsp;
+[<img alt="Instagram" width="48px" src="https://i.imgur.com/8FYYDK5.png" />](https://www.instagram.com/prpantos)&nbsp;&nbsp;
+[<img alt="Codepen" width="48px" src="https://i.imgur.com/O3n6wHW.png" />](https://codepen.io/prpanto)&nbsp;&nbsp;
+[<img alt="CodeSandBox" width="48px" src="https://i.imgur.com/SdzPBLH.png" />](https://codesandbox.io/u/prpanto)
 
 <br />
 
